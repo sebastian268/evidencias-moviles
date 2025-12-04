@@ -1,0 +1,5 @@
+User Stories
+
+Adicionalmente en el archivo bajo el nombre de "CoordinatorView" agregué la verificación de que si la app no esta conectada a internet manda a llamar al atomo bajo el nombre de "OfflineBadge" 
+
+Esto se hace antes de siquiera mandar a llamar a las pantallas para que la verificación solo se tenga que hacer una vez. 
